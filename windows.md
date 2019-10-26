@@ -4,6 +4,6 @@
 - Write *devmgmt.msc*
 - Press *Enter*
 
-## Compile a C# file witout Visual Studio
+## Compile a C# file without Visual Studio
 - Find location of the compiler *csc.exe* (e.g. *C:\Windows\Microsoft.NET\Framework64\xxx*)
 - Optional: Add it to the path enviroment variable
