@@ -6,4 +6,4 @@
 
 ## Compile a C# file witout Visual Studio
 - Find location of the compiler *csc.exe* (e.g. *C:\Windows\Microsoft.NET\Framework64\xxx*)
-- Optional: Add it to the path enviroment varialbe
+- Optional: Add it to the path enviroment variable
