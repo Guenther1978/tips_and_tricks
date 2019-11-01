@@ -1,7 +1,7 @@
 # Windows
 ## Opening the Device Manager
 - Press *Windows* + *R*
-- Write *devmgmt.msc*
+- Write *devmgmt.msc* in the textfield
 - Press *Enter*
 
 ## Compile a C# file without Visual Studio
