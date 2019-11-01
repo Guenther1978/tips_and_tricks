@@ -9,7 +9,7 @@
 - Optional: Add it to the path enviroment variable
 
 ## Shutting down Windows 10 without a mouse
-To shut down Windows 10 only with the keyboard, ress the following keys:
+To shut down Windows 10 only with the keyboard, press the following keys:
 - Control, Alt and Delete at once
 - Cursor up
 - Enter
