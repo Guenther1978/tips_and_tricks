@@ -2,8 +2,13 @@
 
 ## Automatic Variables
 
-- $@: name of target file
+| Variable | Explanation |
+| :---: | :--- |
+| $@  | name of target file |
+
 
 ## Command line options
 
-- -f *name*, --file *name*: if name of the makefile is not makefile
+| short | long | Explanation |
+| :---: | :---: | :--- |
+| -f *name* | --file *name* | if name of the makefile is not makefile
