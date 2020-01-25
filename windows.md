@@ -14,9 +14,9 @@ To shut down Windows 10 only with the keyboard, press the following keys:
 - *Alt* + *F4*
 - *Enter*
 
-## Printing two pdf-pages on one page wothout the Adobe Reader
-Some other programs does not support printing two pages of a pdf-document on one page (e.g. Sumatra).
-Then open the pdf-document with the chrome browser, this browser supports this task.
+## Printing two pdf-pages on one page
+Some combinations of programs for viewing pdf-documents and driver of printer does not support printing two pages of a pdf-document on one page.
+Then try to open the pdf-document with the chrome browser, this browser supports this task.
 
 ## Changing the keyboard layout
 To change between the the layouts of the keyboard, press *Alt* and *Shift*.
