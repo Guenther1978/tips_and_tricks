@@ -11,7 +11,7 @@
 | one character to the left | C-l |
 | one word to the left | M-l |
 | one character to the right | C-r |
-| one word to the left | M-r |
+| one word to the right | M-r |
 | one line up | C-p |
 | one line down | C-n |
 | one paragraph up | M-{ |
