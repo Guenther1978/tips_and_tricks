@@ -8,3 +8,5 @@
 - A quick introduction to the [Google C++ Testing Framework](https://developer.ibm.com/technologies/systems/articles/au-googletestingframework)
 
 - A great [script](https://github.com/rfoos/doxygen/blob/master/asm4doxy.pl) that transforms specially formatted assembly files in files that doxygen can understand.
+
+- With [pk2cmd](https://github.com/psmay/pk2cmd.git) a Microchip PIC controller can be programmed via a Pickit 2 with Linux.
