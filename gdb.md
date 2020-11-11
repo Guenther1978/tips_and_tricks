@@ -10,8 +10,8 @@ gdb test
 
 ## Commands
 
-| Command | Short form | Arguments | Descriptoin |
----
+| Command | Short form | Arguments | Description |
+| --- | --- | --- | --- |
 | break | b | linenumber or function | Add a breakpoint |
 | delete | | n | Deletes breakpoint number n |
 | info | i | register | list the content of all registers |
