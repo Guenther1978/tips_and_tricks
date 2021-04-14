@@ -1,12 +1,4 @@
-# Interesting links
-
-## Tutorials
-
-- My favourite [python tutorial](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
-
-- A quick introduction to the [Google C++ Testing Framework](https://developer.ibm.com/technologies/systems/articles/au-googletestingframework)
-
-## Documentation
+# Documentation
 
 - A great [tool](https://github.com/michaeljones/breathe) to *transform* a [doxygen](https://www.doxygen.nl/index.html) documentation to a [Sphinx documentation](https://www.sphinx-doc.org/en/master/)
 
@@ -14,6 +6,4 @@
 
 - A great [script](https://github.com/rfoos/doxygen/blob/master/asm4doxy.pl) that transforms specially formatted assembly files in files that doxygen can understand.
 
-## Microcontroller
-
-- With [pk2cmd](https://github.com/psmay/pk2cmd.git) a Microchip PIC controller can be programmed via a Pickit 2 with Linux.
+- Youtube Video [embedding](https://jasonstitt.com/youtube-in-restructured-text) in reStructuredText.
