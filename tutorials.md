@@ -4,4 +4,4 @@
 
 - A quick [introduction](https://developer.ibm.com/technologies/systems/articles/au-googletestingframework) to the [Google C++ Testing Framework](https://github.com/google/googletest)
 
-- An introduction how to [install](https://lchsk.com/how-to-set-up-googletest-library-from-source.html) the [Google C++ Testing Framwork](https://github.com/google/googletest)
+- An introduction how to [install](https://github.com/google/googletest/blob/master/googletest/README.md) the [Google C++ Testing Framwork](https://github.com/google/googletest)
